@@ -1,0 +1,4 @@
+"PARTID","PARTNAME","DESCRIPTION","PRICE","SUPPLIERNAME","SUPPLIERCONTACTNUMBER","SUPPLIERADDRESS"
+"1","Engine","Toyota 2.5L 4-cylinder engine","1500","Engine Suppliers Ltd","+14155552671","123 Main St, Anytown, USA"
+"2","Transmission","Ford 6-speed automatic","2000","Transmission Suppliers Ltd","+14155552672","124 Main St, Anytown, USA"
+"3","Battery","Tesla Lithium-ion battery","3000","Battery Suppliers Ltd","+14155552673","125 Main St, Anytown, USA"

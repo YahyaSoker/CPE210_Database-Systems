@@ -1,0 +1,3 @@
+"SHOPID","SHOPNAME","OWNERID","LOCATION","PHONENUMBER","OPENINGHOURS","WEBSITE","EMAIL"
+"1","Main Street Car Shop","1","123 Main St, Anytown, USA","+14155552671","Mon-Fri 9AM-5PM","www.mainstreetcarshop.com","info@mainstreetcarshop.com"
+"2","Second Street Car Shop","2","123 Second St, Anytown, USA","+14155552672","Mon-Sat 9AM-6PM","www.secondstreetcarshop.com","info@secondstreetcarshop.com"
